@@ -1,0 +1,88 @@
+ul{
+  margin-left: 2%;
+}
+#con1{
+background-color: #EAE3D2;
+}
+#con2{
+background-color: #CDFCF6;
+}
+#con3{
+background-color: #E5EBB2;
+}
+#con4{
+background-color: #F7F6DC;
+}
+#con5{
+background-color: #FFE6F7;
+}
+#con6{
+background-color: #E1FFEE;
+}
+#con7{
+background-color: #C8FFD4;
+}
+.container h3{
+  color: #F06C9B;
+}
+.container h4{
+  color:#32C888;
+}
+body{
+  padding:2%;
+}
+.planet{
+  margin-left: 5% !important;
+}
+.careerimage{
+  margin-left: 4%;
+  transform: rotate(-5deg);
+}
+
+#oneoffour{
+  width:30rem !important;
+  height:30rem !important;
+
+}
+h1{
+  font-family: 'Satisfy',cursive;
+}
+#welcome{
+  font-size: 5rem;
+  font-family: 'Satisfy',cursive;
+  margin-left: 10%;
+  align-items: center;
+}
+#navmain{
+  background-color: #E56399;
+}
+#navcontent{
+  color:white;
+  font-family: 'Recursive', sans-serif;
+  font-size: 1.2rem;
+}
+#footer{
+  background-color: #d8b109;
+  margin-top: 10%;
+  margin-bottom: -10%;
+  margin-left: -5%;
+  font-size: 1.5rem;
+  font-family: 'Playfair Display', serif;
+  margin-right: -5%;
+  padding:1%;
+  color:white;
+}
+.careerplanet{
+  font-weight: bold;
+  font-size: 3rem;
+}
+#navcontent:hover {
+color: #293462;
+text-decoration: underline;
+}
+#second {
+  margin:-10%;
+  padding:5%;
+  background-color: black;
+  color: white;
+}
